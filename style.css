@@ -64,7 +64,7 @@ body {
 
   margin: 0 auto;
   margin-top: 35px;
-  background-image: url(assets/Hero-bg.png);
+  background-image: url(./assets/Hero-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: center;
@@ -563,7 +563,7 @@ body {
   border-radius: 16px;
   background-color: rgba(0, 0, 0, 0.3);
   background-blend-mode: overlay;
-  background-image: url(assets/handshake.jpg);
+  background-image: url(./assets/handshake.jpg);
   background-repeat: no-repeat;
   background-position: center;
   display: flex;
